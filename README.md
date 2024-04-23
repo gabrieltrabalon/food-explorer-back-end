@@ -63,4 +63,4 @@ O front-end foi hospedado na plataforma Netlify, que oferece hospedagem gratuita
 [CLIQUE AQUI E VEJA O RESULTADO FINAL](https://foodexplorerxz.netlify.app/)
 
 
-@[@GabrielTrabalon](https://github.com/gabrieltrabalon)
+[@GabrielTrabalon](https://github.com/gabrieltrabalon)
